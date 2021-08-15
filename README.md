@@ -31,9 +31,27 @@ Untuk menjalankan aplikasi hasil build
 ### `npm run lint`
 Untuk menjalankan perintah ESLint pada folder `src`
 
+## Display
 
-Sumber Gambar/ Referensi :
+### `Preview Desktop`
+![Desktop](https://github.com/albertsfebrian/Dicoding-Belajar-Fundamental-Front-End-Web-Development/blob/main/demo/Desktop.gif)
+
+### `Preview Tablet`
+![Ipad](https://github.com/albertsfebrian/Dicoding-Belajar-Fundamental-Front-End-Web-Development/blob/main/demo/Tablet.gif)
+
+### `Preview Mobile`
+![Iphone](https://github.com/albertsfebrian/Dicoding-Belajar-Fundamental-Front-End-Web-Development/blob/main/demo/Mobile.gif)
+
+### `Preview Loading`
+![Loading](https://github.com/albertsfebrian/Dicoding-Belajar-Fundamental-Front-End-Web-Development/blob/main/demo/Loading.gif)
+
+### `Preview Error`
+![Loading](https://github.com/albertsfebrian/Dicoding-Belajar-Fundamental-Front-End-Web-Development/blob/main/demo/Error.gif)
+
+
+## Sumber Gambar/ Referensi :
 - [Covid-19 Website Exploration](https://dribbble.com/shots/11130078-Covid-19-Website-Exploration) untuk referensi UI
 - [Covid 19 Donation and Information Website](https://dribbble.com/shots/10870770-Covid-19-Donation-and-Information-Website) untuk referensi UI
 - [Icon](https://www.flaticon.com/authors/freepik) dari [Flaticon](https://www.flaticon.com/)
 - [Gambar Jumbotron](https://www.freepik.com/pikisuperstar) dari [Freepik](https://www.freepik.com/)
+- [Link Gambar/Icon](https://github.com/albertsfebrian/Dicoding-Belajar-Fundamental-Front-End-Web-Development/blob/main/source.txt)
