@@ -1,0 +1,16 @@
+.width-content{
+    padding-top: 1rem;
+    width: 100%;
+    margin: auto;
+}
+@media only screen and (min-width: 768px) {
+    .width-content{
+        width: 90%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .width-content{
+        width: 60%;
+    }
+}

@@ -1,0 +1,16 @@
+.image-circle{
+    background-color: #f0f4f9;
+    border-radius: 1000px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem auto;
+}
+.card-info{
+    height: 100%;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+}

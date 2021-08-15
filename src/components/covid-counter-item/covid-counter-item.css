@@ -1,0 +1,14 @@
+.text-confirmed {
+    color: #ffa500;
+    font-weight: 700;
+}
+
+.text-recovered {
+    color: #008000;
+    font-weight: 700;
+}
+
+.text-deaths {
+    color: #ff0000;
+    font-weight: 700;
+}

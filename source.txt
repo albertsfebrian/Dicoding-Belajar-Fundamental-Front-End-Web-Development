@@ -1,0 +1,15 @@
+gambar:
+https://www.freepik.com/free-vector/person-fighting-virus-illustrated_7435159.htm#page=1&query=covid&position=0
+
+icon:
+https://www.flaticon.com/free-icon/hand-washing_2949927?related_id=2949927&origin=pack
+https://www.flaticon.com/free-icon/medical-mask_2949936?related_id=2949936&origin=pack
+https://www.flaticon.com/free-icon/distance_2949784?related_id=2949784&origin=pack
+https://www.flaticon.com/free-icon/house_619034?term=home&page=1&position=20&page=1&position=20&related_id=619034&origin=search
+
+favicon:
+https://www.flaticon.com/free-icon/coronavirus_2913604?term=covid&page=1&position=30&page=1&position=30&related_id=2913604&origin=search
+
+references:
+https://dribbble.com/shots/11130078-Covid-19-Website-Exploration
+https://dribbble.com/shots/10870770-Covid-19-Donation-and-Information-Website
